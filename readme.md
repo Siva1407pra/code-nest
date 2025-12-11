@@ -5,5 +5,11 @@ HI! This is newline
 * git init
 * git  config --global user.name <user name> 
 *  git config --global user.email <user email>
-* git  clone 
+* git  clone <repo-url>
+
+* git status
+* git add 
+* git commit -m "your comments"
+* git push
+ 
  
