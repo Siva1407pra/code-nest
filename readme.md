@@ -11,5 +11,6 @@ HI! This is newline
 * git add 
 * git commit -m "your comments"
 * git push
+ * git restore --staged .\filename
  
  
