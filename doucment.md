@@ -124,3 +124,4 @@ Github:
 5.git commit
 
 6.git push
+7. git restore
